@@ -13,3 +13,8 @@ def test_api():
     pass                                                                    
 
 print (test_api())
+
+if price > 100:
+    print("buy order")
+else : 
+    print("algo  trading sell order")
