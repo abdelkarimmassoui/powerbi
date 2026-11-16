@@ -12,8 +12,11 @@ def test_api():
     # code for testing the API      
     pass                                                                    
 
-print (test_api())
+#----------------------------s
 
+price = 150
+zone1 =  'supply'
+zone2 =  'demand'
 if price > 100:
     print("buy order")
 else : 
